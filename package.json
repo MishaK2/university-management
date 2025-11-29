@@ -1,0 +1,16 @@
+{
+  "name": "university-management",
+  "version": "1.0.0",
+  "description": "University Management System using TypeScript & Enums",
+  "main": "dist/university.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/university.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.6.3"
+  }
+}
